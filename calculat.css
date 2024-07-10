@@ -1,0 +1,20 @@
+h2{
+    text-shadow: 2px 2px 2px rgba(255, 0, 64, 0.795), -1px -1px 2px rgba(255, 220, 24, 0.925);
+}
+body{
+    background-image: url("https://www.shutterstock.com/image-photo/office-leather-desk-table-calculator-600nw-516570586.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+    margin: 200px 0px 0px 0px;
+}
+table{
+    background: linear-gradient(to bottom, #ebb607 2%, #99ccff 86%);
+}
+button:hover{
+    background: linear-gradient(to bottom, #05cff8 2%, #ffff66 86%);
+   
+}
+button{
+    width: 35px;
+    height: 35px;
+}
